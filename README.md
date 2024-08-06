@@ -27,11 +27,12 @@ The data pertains to the houses found in a given California district and some su
 
 - households
 
-
-Click [here](https://github.com/WittsMei/House-Price-Prediction-in-Python---Machine-Learning-Project/blob/main/California%20housing%20prices.ipynb) to view the prediction results.
-
 - median_income
 
 - median_house_value
 
 - ocean_proximity
+
+
+
+Click [here](https://github.com/WittsMei/House-Price-Prediction-in-Python---Machine-Learning-Project/blob/main/California%20housing%20prices.ipynb) to view the prediction results.
